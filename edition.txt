@@ -6,3 +6,4 @@ issue resolved
 hotfix my solution
 
 Hotfix team solution
+remote follow-up hotfix
