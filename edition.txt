@@ -8,3 +8,4 @@ hotfix my solution
 Hotfix team solution
 local follow-up hotfix
 remote follow-up hotfix
+New function added
